@@ -24,4 +24,9 @@ h1 {
 p {
     font-family: "splat2reg";
     font-size: 25px;
+    color: white;
+}
+
+body {
+    background-color: #2A2E34;
 }
