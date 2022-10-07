@@ -18,8 +18,9 @@
 
 h1 {
     font-family: "splat1reg";
-    font-size: 70px;
+    font-size: 35px;
     color: white;
+    float: left;
 }
 
 p {
@@ -34,4 +35,10 @@ body {
 
 header {
     background: black;
+}
+
+header::after {
+    content: '';
+    display: table;
+    clear: both;
 }
