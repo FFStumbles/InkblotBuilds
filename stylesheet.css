@@ -31,10 +31,13 @@ p {
 
 body {
     background-color: #2A2E34;
+    margin: 0;
+    padding: 0%;
 }
 
 .container {
     width: 95%;
+    padding: 95%;
     margin: 0 auto;
 }
 
