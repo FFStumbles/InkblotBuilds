@@ -1,17 +1,17 @@
 @font-face {
     font-family: "splat1reg";
-    src: url("../Splat3Builds/fonts/Splatoon1.ttf") format("truetype");
-    src: url("../Splat3Builds/fonts/splatoon1-webfont.woff") format("woff");
-    src: url("../Splat3Builds/fonts/splatoon1-webfont.woff2") format("woff2");
+    src: url("../InkblotBuilds/fonts/Splatoon1.ttf") format("truetype");
+    src: url("../InkblotBuilds/fonts/splatoon1-webfont.woff") format("woff");
+    src: url("../InkblotBuilds/fonts/splatoon1-webfont.woff2") format("woff2");
     font-weight:normal;
     font-style:normal;
 }
 
 @font-face {
     font-family: "splat2reg";
-    src: url("../Splat3Builds/fonts/Splatoon2.ttf") format("truetype");
-    src: url("../Splat3Builds/fonts/splatoon2-webfont.woff") format("woff");
-    src: url("../Splat3Builds/fonts/splatoon2-webfont.woff2") format("woff2");
+    src: url("../InkblotBuilds/fonts/Splatoon2.ttf") format("truetype");
+    src: url("../InkblotBuilds/fonts/splatoon2-webfont.woff") format("woff");
+    src: url("../InkblotBuilds/fonts/splatoon2-webfont.woff2") format("woff2");
     font-weight:normal;
     font-style:normal;
 }
